@@ -1,3 +1,9 @@
 22.9.2025 20:46:07 Application started
 22.9.2025 20:46:07 User logged in
 22.9.2025 20:46:07 Authorization error
+29.9.2025 10:08:03 Application started
+29.9.2025 10:08:03 User logged in
+29.9.2025 10:08:03 Authorization error
+29.9.2025 16:56:49 Application started
+29.9.2025 16:56:49 Authorization error
+29.9.2025 16:56:49 User logged in
